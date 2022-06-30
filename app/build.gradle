@@ -28,5 +28,4 @@ android {
 dependencies {
 	// NOTE: CodeAssist does NOT support adding dependencies here, 
 	// use the library manager instead
-	implementation 'androidx.lifecycle:lifecycle-livedata:2.2.0-rc03'
 }
