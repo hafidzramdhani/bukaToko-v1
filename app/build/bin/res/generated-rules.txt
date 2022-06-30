@@ -1,8 +1,10 @@
-# Referenced at /storage/emulated/0/AndroidStudio/SplashScreen/app/build/bin/AndroidManifest.xml:12
+# Referenced at /storage/emulated/0/AndroidStudio/bukaToko-v1/app/build/bin/AndroidManifest.xml:5
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
-# Referenced at /storage/emulated/0/AndroidStudio/SplashScreen/app/build/bin/AndroidManifest.xml:29
+# Referenced at /storage/emulated/0/AndroidStudio/bukaToko-v1/app/build/bin/AndroidManifest.xml:5
+-keep class com.splash.sc.LoggerApplication { <init>(); }
+# Referenced at /storage/emulated/0/AndroidStudio/bukaToko-v1/app/build/bin/AndroidManifest.xml:13
 -keep class com.splash.sc.MainActivity { <init>(); }
-# Referenced at /storage/emulated/0/AndroidStudio/SplashScreen/app/build/bin/AndroidManifest.xml:20
+# Referenced at /storage/emulated/0/AndroidStudio/bukaToko-v1/app/build/bin/AndroidManifest.xml:6
 -keep class com.splash.sc.SplashJava { <init>(); }
 # Referenced at /storage/emulated/0/AndroidStudio/SplashScreen/app/build/libs/19cb8c81e85229a2d43fc770278b7dbe/res/layout/abc_alert_dialog_button_bar_material.xml:43
 # Referenced at /storage/emulated/0/AndroidStudio/SplashScreen/app/build/libs/19cb8c81e85229a2d43fc770278b7dbe/res/layout/abc_alert_dialog_material.xml:52
@@ -71,7 +73,7 @@
 -keep class androidx.appcompat.widget.SwitchCompat { <init>(...); }
 
 # Referenced at /storage/emulated/0/AndroidStudio/SplashScreen/app/build/libs/19cb8c81e85229a2d43fc770278b7dbe/res/layout/abc_screen_toolbar.xml:36
-# Referenced at /storage/emulated/0/AndroidStudio/SplashScreen/app/src/main/res/layout/activity_main.xml:19
+# Referenced at /storage/emulated/0/AndroidStudio/bukaToko-v1/app/src/main/res/layout/activity_main.xml:19
 -keep class androidx.appcompat.widget.Toolbar { <init>(...); }
 
 # Referenced at /storage/emulated/0/AndroidStudio/SplashScreen/app/build/libs/19cb8c81e85229a2d43fc770278b7dbe/res/layout/abc_screen_simple.xml:25
@@ -98,7 +100,7 @@
 # Referenced at /storage/emulated/0/AndroidStudio/SplashScreen/app/build/libs/78381e0a7541f6480b22b202d1ba2fbd/res/layout/mtrl_calendar_months.xml:18
 -keep class androidx.recyclerview.widget.RecyclerView { <init>(...); }
 
-# Referenced at /storage/emulated/0/AndroidStudio/SplashScreen/app/src/main/res/layout/activity_main.xml:12
+# Referenced at /storage/emulated/0/AndroidStudio/bukaToko-v1/app/src/main/res/layout/activity_main.xml:12
 -keep class com.google.android.material.appbar.AppBarLayout { <init>(...); }
 
 # Referenced at /storage/emulated/0/AndroidStudio/SplashScreen/app/build/libs/78381e0a7541f6480b22b202d1ba2fbd/res/layout/test_toolbar.xml:16
@@ -107,7 +109,7 @@
 # Referenced at /storage/emulated/0/AndroidStudio/SplashScreen/app/build/libs/78381e0a7541f6480b22b202d1ba2fbd/res/layout/test_toolbar_surface.xml:16
 -keep class com.google.android.material.appbar.MaterialToolbar { <init>(...); }
 
-# Referenced at /storage/emulated/0/AndroidStudio/SplashScreen/app/src/main/res/layout/activity_main.xml:50
+# Referenced at /storage/emulated/0/AndroidStudio/bukaToko-v1/app/src/main/res/layout/activity_main.xml:50
 -keep class com.google.android.material.bottomnavigation.BottomNavigationView { <init>(...); }
 
 # Referenced at /storage/emulated/0/AndroidStudio/SplashScreen/app/build/libs/78381e0a7541f6480b22b202d1ba2fbd/res/layout/material_clock_period_toggle.xml:35
@@ -120,7 +122,7 @@
 # Referenced at /storage/emulated/0/AndroidStudio/SplashScreen/app/build/libs/78381e0a7541f6480b22b202d1ba2fbd/res/layout-land/material_clock_period_toggle_land.xml:18
 -keep class com.google.android.material.button.MaterialButtonToggleGroup { <init>(...); }
 
-# Referenced at /storage/emulated/0/AndroidStudio/SplashScreen/app/src/main/res/layout/fragment_home.xml:25
+# Referenced at /storage/emulated/0/AndroidStudio/bukaToko-v1/app/src/main/res/layout/fragment_home.xml:25
 -keep class com.google.android.material.card.MaterialCardView { <init>(...); }
 
 # Referenced at /storage/emulated/0/AndroidStudio/SplashScreen/app/build/libs/78381e0a7541f6480b22b202d1ba2fbd/res/layout/material_time_chip.xml:17

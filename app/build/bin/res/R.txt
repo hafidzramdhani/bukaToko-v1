@@ -2479,7 +2479,8 @@ int layout text_view_with_theme_line_height 0x7f0c0075
 int layout text_view_without_line_height 0x7f0c0076
 int menu create_menu 0x7f0d0000
 int menu menuNav 0x7f0d0001
-int menu notifications_bar 0x7f0d0002
+int menu menu_nav 0x7f0d0002
+int menu notifications_bar 0x7f0d0003
 int mipmap ic_launcher 0x7f0e0000
 int mipmap ic_launcher_round 0x7f0e0001
 int plurals mtrl_badge_content_description 0x7f0f0000

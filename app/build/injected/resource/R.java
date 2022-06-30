@@ -42,12 +42,12 @@ public final class R {
 		public static final int roboto_bold = 24;
 	}
 	public static final class id {
-		public static final int appBar = 34;
+		public static final int appBar = 35;
 		public static final int bottom_nav = 32;
 		public static final int bukatokoIcon = 36;
 		public static final int darkMode = 38;
 		public static final int nav_aplikasi = 37;
-		public static final int nav_chat = 35;
+		public static final int nav_chat = 34;
 		public static final int nav_home = 39;
 		public static final int nav_katalog = 26;
 		public static final int nav_promosi = 28;
@@ -67,8 +67,8 @@ public final class R {
 	}
 	public static final class menu {
 		public static final int create_menu = 49;
-		public static final int menuNav = 47;
-		public static final int notifications_bar = 48;
+		public static final int menu_nav = 48;
+		public static final int notifications_bar = 47;
 	}
 	public static final class mipmap {
 		public static final int ic_launcher = 61;
