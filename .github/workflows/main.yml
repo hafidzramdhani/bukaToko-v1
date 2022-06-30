@@ -19,7 +19,7 @@ jobs:
         java-version: 11
     # [1.7, 1.8, 11, ...]
     - name: Grab Gradle Wrapper
-      run: gradle wrapper --gradle-version 6.6.1
+      run: gradle wrapper --gradle-version 7.0.2
     - name: Make Gradle executable
       run: chmod +x ./gradlew
     - name: Build with Gradle
